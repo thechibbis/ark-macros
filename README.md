@@ -10,3 +10,7 @@
 ## Configuracoes ingame
 - res: 1920x1080
 - sens: 7 / 7
+
+## Configuracoes do bot
+- terminais no abb: 54
+- gacha towers: 4
